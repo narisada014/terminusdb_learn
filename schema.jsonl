@@ -1,0 +1,3 @@
+{"@base":"terminusdb:///data/", "@schema":"terminusdb:///schema#", "@type":"@context"}
+{"@type": "Class","@id": "Person","@key": {"@type": "Lexical","@fields": ["name"]},"name": "xsd:string"}
+{"@type": "Class","@id": "Pet","@key": {"@type": "Lexical","@fields": ["name"]},"name": "xsd:string"}
